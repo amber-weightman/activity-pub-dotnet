@@ -1,5 +1,5 @@
 # activity-pub-dotnet
-A .NET 6 implementation of [Activity Pub](https://www.w3.org/TR/activitypub/)
+A .NET 6 AWS Serverless implementation of [Activity Pub](https://www.w3.org/TR/activitypub/)
 
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=amber-weightman_activity-pub-dotnet&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=amber-weightman_activity-pub-dotnet)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=amber-weightman_activity-pub-dotnet&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=amber-weightman_activity-pub-dotnet)
