@@ -13,6 +13,8 @@ A .NET 6 implementation of [Activity Pub](https://www.w3.org/TR/activitypub/)
 
 TBA
 
+Consumes: [activity-streams-dotnet](https://github.com/amber-weightman/activity-streams-dotnet/blob/main/README.md)
+
 ## Contribution
 - If you want to contribute to codes, create pull request
 - If you find any bugs or error, create an issue
