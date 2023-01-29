@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/test/ActivityPub.Tests/TestResults
+/test/TestResults
+/test/TestCoverage
+/src/ActivityPub/bin/*
+/src/ActivityPub/obj/*
+/test/ActivityPub.Tests/bin/*
+/test/ActivityPub.Tests/obj/*
+/SonarTestResults.xml
